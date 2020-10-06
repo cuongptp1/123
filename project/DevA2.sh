@@ -1,4 +1,3 @@
-  
 #!/bin/sh
 sudo -i
 sudo apt-get update
